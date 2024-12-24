@@ -1,6 +1,3 @@
-Here is a draft of the README file for your portfolio website project:
-
----
 
 # Alireza ZV Portfolio
 
